@@ -21,7 +21,7 @@ We built a complete training pipeline using Python and Keras:
 
 ## 📸 Example CAPTCHA
 
-![Sample CAPTCHA](https://github.com/your-username/captcha-resnet-solver/raw/main/sample.jpg)
+![Sample CAPTCHA](https://raw.githubusercontent.com/abrahamVado/captcha_trainer/main/preview.jpeg)
 
 ---
 
@@ -76,7 +76,7 @@ setup.bat
 ## 📁 Project Structure
 
 ```
-captcha-resnet-solver/
+captcha_trainer/
 ├── synthetic_generation.py      # Generates synthetic images
 ├── train_captcha_ResNet50.py    # Trains the CNN model
 ├── predict.py                   # Loads a model and makes predictions
@@ -116,7 +116,7 @@ This is a free and educational open-source project.
 
 💻 **Try it. Fork it. Improve it.**
 
-➡️ [https://github.com/your-username/captcha-resnet-solver](https://github.com/your-username/captcha-resnet-solver)
+➡️ [https://github.com/abrahamVado//captcha_trainer](https://github.com/abrahamVado//captcha_trainer)
 
 ---
 
